@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-## Who am I?
-
-* 👨‍🎓
+# Kangmin Choi
 
 <!--
 **kangmincho1/kangmincho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
