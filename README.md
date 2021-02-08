@@ -1,5 +1,4 @@
-# Kangmin Choi
-
+# Welcome!
  * 📖 I'm majoring in Robotics, Intelligence System
  * 🤓 I'm passionate about studying deep learning!
 
