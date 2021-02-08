@@ -1,3 +1,5 @@
+<strongest0502@gmail.com>
+
 # Kangmin Choi
 
  * 📖 I'm majoring in Robotics, Intelligence System
